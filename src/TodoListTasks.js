@@ -10,7 +10,7 @@ class TodoListTasks extends React.Component {
                     title={item.title}
                     isDone={item.isDone}
                     priority={item.priority}
-                />
+                 />
             )
         });
         return (
