@@ -15,19 +15,6 @@
 
 }
 
-.StudentName {
-  width: 350px;
-  height: 50px;
-  margin: 5px;
-  background-color: aquamarine;
-  border: 3px;
-  border-style: solid;
-  border-color: black;
-  text-shadow: cornflowerblue;
-  text-align: center ;
-  font-style: italic;
-}
-
 .filter-active {
   background-color: aquamarine;
 }
@@ -37,4 +24,16 @@
   padding: 5px;
   border: 1px solid black;
   width: 82px;
+}
+
+.Skill {
+
+}
+
+.error {
+  border-color: red;
+}
+
+.todoList-task .done {
+  opacity: 0.5;
 }
